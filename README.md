@@ -1,5 +1,5 @@
 <h1 align="center"> سلمان غوری 👋, I'm Salman Ghouri</h1>
-<h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
+<h3 align="center">Hey, I am Professional MERN Full Stack Web Developer!</h3>
 
 
 ---------------------------------------------------------------------------------------------------------
