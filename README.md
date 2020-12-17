@@ -33,6 +33,8 @@ MY JAVASCRIPT APPLICATIONS:
 <a href="mailto:salmanghouribuss@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-salmanghouribuss@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+--
+⭐️ From [@SalmanGhouri](https://github.com/Salmanghouri)
 
 
 
