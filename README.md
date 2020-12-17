@@ -7,7 +7,7 @@
 ⚡MY JAVASCRIPT APPLICATIONS: 🌱
 ---------------------------
 1-TODO APP Link📝 : https://salmanghouri.github.io/TodoAppJavaScript/?#
-___
+----
 2-Transparent LOGIN: https://transparentloginpage.web.app/
 -----------------------------------------------------------------------------------------------------------
 ### Github Stats
