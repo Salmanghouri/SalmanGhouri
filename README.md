@@ -1,4 +1,4 @@
-<h1 align="center"> 萨尔曼·格里 👋, I'm Salman Ghouri</h1>
+<h1 align="center"> سلمان غوری 👋, I'm Salman Ghouri</h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 
 
