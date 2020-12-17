@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 ⭐ From [Salman Ghouri](https://github.com/Salmanghouri)
 
-
+---------------------------------------------------------------------------------------------------------
 MY JAVASCRIPT APPLICATIONS:
-
+---------------------------
 1-TODO APP Link : https://salmanghouri.github.io/TodoAppJavaScript/?#
+
+-----------------------------------------------------------------------------------------------------------
+### Github Stats
+
+[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+
+----------------------------------------------------------------------------------------------------------
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -14,6 +22,8 @@ MY JAVASCRIPT APPLICATIONS:
 <a href="https://stackoverflow.com/users/14846146/salmanghouri98" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Salman%20Ghouri-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:salmanghouribuss@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-salmanghouribuss@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+
 
 
 
