@@ -9,7 +9,7 @@ MY JAVASCRIPT APPLICATIONS:
 -----------------------------------------------------------------------------------------------------------
 ### Github Stats
 
-[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmanghouri&show_icons=true&count_private=true)](https://github.com/Salmanghouri)
 
 ----------------------------------------------------------------------------------------------------------
 
