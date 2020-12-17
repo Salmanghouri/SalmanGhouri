@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Salman</h1>
-⭐ From [Salman Ghouri](https://github.com/Salmanghouri)
+<h1 align="center"> 萨尔曼·格里 👋, I'm Salman Ghouri</h1>
+<h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
+
 
 ---------------------------------------------------------------------------------------------------------
-MY JAVASCRIPT APPLICATIONS:
+⚡MY JAVASCRIPT APPLICATIONS: 🌱
 ---------------------------
-1-TODO APP Link : https://salmanghouri.github.io/TodoAppJavaScript/?#
+1-TODO APP Link📝 : https://salmanghouri.github.io/TodoAppJavaScript/?#
 
 -----------------------------------------------------------------------------------------------------------
 ### Github Stats
+------------------
 
 [![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmanghouri&show_icons=true&count_private=true)](https://github.com/Salmanghouri)
 
@@ -18,6 +20,7 @@ MY JAVASCRIPT APPLICATIONS:
 |---|---|---|---|---|---|---|---|---|
 -------
 ### Programming Languages 🌐
+------------
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
@@ -26,6 +29,7 @@ MY JAVASCRIPT APPLICATIONS:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+
 <p align="center">
 <a href="http://salmanghouri.blogspot.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-http://salmanghouri.blogspot.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/salman-ghouri-418ba5166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SalmanGhouri-blue?style=flat&logo=linkedin"></a>
@@ -33,7 +37,8 @@ MY JAVASCRIPT APPLICATIONS:
 <a href="mailto:salmanghouribuss@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-salmanghouribuss@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
---
+-----
+
 ⭐️ From [@SalmanGhouri](https://github.com/Salmanghouri)
 
 
