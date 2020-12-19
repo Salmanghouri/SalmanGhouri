@@ -10,6 +10,8 @@
 
 2-Transparent LOGIN: https://transparentloginpage.web.app/
 
+3-Magic Notepad APP: https://salmanghouri.github.io/MagicNotes/
+
 -----------------------------------------------------------------------------------------------------------
 ### Github Stats
 ------------------
